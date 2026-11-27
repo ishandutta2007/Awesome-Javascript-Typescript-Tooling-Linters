@@ -44,25 +44,17 @@ A curated list of top JavaScript and TypeScript linters, high-speed Rust/Zig for
 
 ## SaaS/Hosted Platforms
 
+Commercial, cloud-hosted code quality platforms, automated PR review services, and managed continuous inspection suites, sorted in descending order by company valuation/estimated scale.
 
-
-Commercial, cloud-hosted code quality platforms, automated PR review services, and managed continuous inspection suites.
-
-
-
-* **[SonarQube Cloud (SonarCloud)](https://sonarsource.com)** - Enterprise cloud-based code quality and static application security testing (SAST) platform with deep JavaScript/TypeScript rule sets.
-
-* **[DeepSource](https://deepsource.com)** - Automated cloud code health and static analysis platform detecting bugs, anti-patterns, and security vulnerabilities on every pull request.
-
-* **[Codacy](https://codacy.com)** - Managed DevSecOps platform automating code reviews, ESLint/Biome rule enforcement, code coverage, and technical debt tracking.
-
-* **[CodeClimate Quality](https://codeclimate.com)** - Cloud-hosted automated code review service providing maintainability ratings, test coverage, and linter orchestration.
-
-* **[Qodana (JetBrains)](https://jetbrains.com)** - Commercial code quality and static analysis platform bringing WebStorm/IntelliJ JavaScript & TypeScript inspections into CI/CD pipelines.
-
-* **[Biome / ESLint / Prettier Hosted CI Services (Trunk.io / MegaLinter Cloud)](https://trunk.io)** - Managed developer experience platforms orchestrating hosted linting, formatting, and hermetic toolchain caching across repositories.
-
-* **[Snyk Code](https://snyk.io)** - Real-time cloud static analysis tool identifying security flaws and code quality issues in JavaScript and TypeScript codebases.
+| Platform | Description | Starting Tier Pricing | Free Tier Limits | Company Scale (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Snyk Code](https://snyk.io)** | Real-time cloud static analysis tool identifying security flaws and code quality issues in JavaScript and TypeScript codebases. | **Team Plan:** $25/contributing developer/month (billed monthly or annually) | **Free forever:** 100 tests/month for Snyk Code (SAST), 200 tests/month for SCA, 300 tests/month for IaC; unlimited scans for public/open-source repos. | **~$7.4B valuation** ($300M+ ARR) |
+| **[SonarQube Cloud (SonarCloud)](https://sonarsource.com)** | Enterprise cloud-based code quality and static application security testing (SAST) platform with deep JavaScript/TypeScript rule sets. | **Team Plan:** $34/month (covers up to 100,000 Lines of Code) | **Free forever:** Up to 50,000 Lines of Code (LOC) for private repositories; unlimited LOC for public/open-source projects. | **~$4.7B valuation** (~$175M+ ARR) |
+| **[Qodana (JetBrains)](https://jetbrains.com)** | Commercial code quality and static analysis platform bringing WebStorm/IntelliJ JavaScript & TypeScript inspections into CI/CD pipelines. | **Ultimate Plan:** $5.00/contributor/month ($60/contributor/year, min. 3 contributors = $15/month) | **Community Plan (Free forever):** Basic language linters (Java, Python, .NET, C/C++) with unlimited lines of code; excludes JS/TS. **Free Trial:** 60-day full-access free trial for Ultimate/Ultimate Plus (includes full JS/TS inspections). | **~$650M–$700M+ ARR** (Bootstrapped profitable leader, estimated multi-billion valuation) |
+| **[CodeClimate Quality (Qlty Software)](https://codeclimate.com)** | Cloud-hosted automated code review service providing maintainability ratings, test coverage, and linter orchestration. | **Pro Tier:** $20/contributor/month | **Free forever:** Unlimited public and private repositories, 1,000 analysis minutes/month, and 100 AI autofixes/month. | **~$200M valuation** (~$12M–$25M ARR) |
+| **[Trunk Check / CI (Trunk.io)](https://trunk.io)** | Managed developer experience platform orchestrating hosted linting, formatting, and hermetic toolchain caching across repositories. | **Team Tier:** $18/committer/month | **Free forever:** Up to 5 active committers on private repositories, 1M test spans/committer/month; free for open-source repositories. | **~$100M valuation** ($25M Series A raised) |
+| **[Codacy](https://codacy.com)** | Managed DevSecOps platform automating code reviews, ESLint/Biome rule enforcement, code coverage, and technical debt tracking. | **Team Plan:** $18/developer/month (billed annually) or $21/developer/month (billed monthly) | **Developer Plan (Free forever):** IDE/CLI extensions & local quality/security scans for individuals; full Team plan features free for open-source repositories. 14-day free trial on private repos. | **~$32.5M venture funding** (~$7M–$18M ARR) |
+| **[DeepSource](https://deepsource.com)** | Automated cloud code health and static analysis platform detecting bugs, anti-patterns, and security vulnerabilities on every pull request. | **Team Plan:** $12/team member/month (billed annually) or $15/month | **Free forever:** Up to 3 private repositories and 3 team members, 3 SCA targets; unlimited public repositories (capped at 1,000 analysis runs and 1,000 formatting runs/month). 14-day free trial. | **~$3M–$10M venture funding** (~$2M–$3M ARR) |
 
 
 
