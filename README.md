@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters?style=flat-square&color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Javascript-Typescript-Tooling-Linters/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -56,85 +56,85 @@ Commercial, cloud-hosted code quality platforms, automated PR review services, a
 
 Free and open-source software (FOSS) linters, ultra-fast Rust/Zig/C++ formatters, static analyzers, dead-code detectors, and TypeScript compilers. Ranked in descending order by GitHub stargazers count:
 
-1. **[TypeScript](https://github.com/microsoft/TypeScript)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/TypeScript?style=social&color=white)](https://github.com/microsoft/TypeScript/stargazers) 📘
+1. **[TypeScript](https://github.com/microsoft/TypeScript)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/TypeScript?style=social&color=white)](https://github.com/microsoft/TypeScript/stargazers) 📘
    Microsoft's foundational typed superset of JavaScript that compiles to clean JavaScript with industrial-grade static type analysis and diagnostics.
 
-2. **[Prettier](https://github.com/prettier/prettier)** [![GitHub stars](https://img.shields.io/github/stars/prettier/prettier?style=social&color=white)](https://github.com/prettier/prettier/stargazers) 💅
+2. **[Prettier](https://github.com/prettier/prettier)** [![GitHub_Stars](https://img.shields.io/github/stars/prettier/prettier?style=social&color=white)](https://github.com/prettier/prettier/stargazers) 💅
    The industry-standard, opinionated code formatter supporting JavaScript, TypeScript, JSX, CSS, HTML, Markdown, and JSON.
 
-3. **[SWC](https://github.com/swc-project/swc)** [![GitHub stars](https://img.shields.io/github/stars/swc-project/swc?style=social&color=white)](https://github.com/swc-project/swc/stargazers) ⚡
+3. **[SWC](https://github.com/swc-project/swc)** [![GitHub_Stars](https://img.shields.io/github/stars/swc-project/swc?style=social&color=white)](https://github.com/swc-project/swc/stargazers) ⚡
    Super-fast Rust-based TypeScript/JavaScript compiler, transformer, and minifier powering Next.js, Parcel, and Deno.
 
-4. **[StandardJS](https://github.com/standard/standard)** [![GitHub stars](https://img.shields.io/github/stars/standard/standard?style=social&color=white)](https://github.com/standard/standard/stargazers) 📏
+4. **[StandardJS](https://github.com/standard/standard)** [![GitHub_Stars](https://img.shields.io/github/stars/standard/standard?style=social&color=white)](https://github.com/standard/standard/stargazers) 📏
    Zero-configuration, opinionated JavaScript style guide, linter, and automatic code fixer built on ESLint.
 
-5. **[ESLint](https://github.com/eslint/eslint)** [![GitHub stars](https://img.shields.io/github/stars/eslint/eslint?style=social&color=white)](https://github.com/eslint/eslint/stargazers) 🔍
+5. **[ESLint](https://github.com/eslint/eslint)** [![GitHub_Stars](https://img.shields.io/github/stars/eslint/eslint?style=social&color=white)](https://github.com/eslint/eslint/stargazers) 🔍
    The foundational, pluggable static analysis and linting engine for JavaScript and TypeScript with the largest community rule ecosystem in the world.
 
-6. **[Biome](https://github.com/biomejs/biome)** [![GitHub stars](https://img.shields.io/github/stars/biomejs/biome?style=social&color=white)](https://github.com/biomejs/biome/stargazers) 🌳
+6. **[Biome](https://github.com/biomejs/biome)** [![GitHub_Stars](https://img.shields.io/github/stars/biomejs/biome?style=social&color=white)](https://github.com/biomejs/biome/stargazers) 🌳
    Fast, unified Rust-written formatter and linter for JavaScript, TypeScript, JSX, JSON, CSS, and GraphQL (successor to Rome Tools).
 
-7. **[Oxc & Oxlint](https://github.com/oxc-project/oxc)** [![GitHub stars](https://img.shields.io/github/stars/oxc-project/oxc?style=social&color=white)](https://github.com/oxc-project/oxc/stargazers) 🦀
+7. **[Oxc & Oxlint](https://github.com/oxc-project/oxc)** [![GitHub_Stars](https://img.shields.io/github/stars/oxc-project/oxc?style=social&color=white)](https://github.com/oxc-project/oxc/stargazers) 🦀
    Suite of high-performance JavaScript and TypeScript tools written in Rust, featuring `oxlint` (50–100x faster than ESLint), parsers, and transformers.
 
-8. **[Rome Tools (Archived Predecessor)](https://github.com/rome/tools)** [![GitHub stars](https://img.shields.io/github/stars/rome/tools?style=social&color=white)](https://github.com/rome/tools/stargazers) 🏛️
+8. **[Rome Tools (Archived Predecessor)](https://github.com/rome/tools)** [![GitHub_Stars](https://img.shields.io/github/stars/rome/tools?style=social&color=white)](https://github.com/rome/tools/stargazers) 🏛️
    Pioneering open-source unified JavaScript/TypeScript toolchain in Rust that laid the architectural foundation for Biome.
 
-9. **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers) 🛡️
+9. **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers) 🛡️
    Fast, polyglot static analysis engine for finding vulnerabilities, enforcing secure coding standards, and running custom AST queries across JS/TS repos.
 
-10. **[TypeScript-ESLint](https://github.com/typescript-eslint/typescript-eslint)** [![GitHub stars](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint?style=social&color=white)](https://github.com/typescript-eslint/typescript-eslint/stargazers) 🧩
+10. **[TypeScript-ESLint](https://github.com/typescript-eslint/typescript-eslint)** [![GitHub_Stars](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint?style=social&color=white)](https://github.com/typescript-eslint/typescript-eslint/stargazers) 🧩
     The essential tooling and AST parser monorepo enabling ESLint and Prettier to inspect and enforce typed rules in TypeScript codebases.
 
-11. **[Knip](https://github.com/webpro-nl/knip)** [![GitHub stars](https://img.shields.io/github/stars/webpro-nl/knip?style=social&color=white)](https://github.com/webpro-nl/knip/stargazers) ✂️
+11. **[Knip](https://github.com/webpro-nl/knip)** [![GitHub_Stars](https://img.shields.io/github/stars/webpro-nl/knip?style=social&color=white)](https://github.com/webpro-nl/knip/stargazers) ✂️
     Comprehensive, ultra-fast CLI tool for discovering unused files, dead exports, and orphaned dependencies in JavaScript and TypeScript monorepos.
 
-12. **[SonarQube Community Build](https://github.com/SonarSource/sonarqube)** [![GitHub stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers) 🏰
+12. **[SonarQube Community Build](https://github.com/SonarSource/sonarqube)** [![GitHub_Stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers) 🏰
     Open-source self-hosted continuous inspection and code quality server delivering static analysis and security checks for JavaScript and TypeScript.
 
-13. **[Madge](https://github.com/pahen/madge)** [![GitHub stars](https://img.shields.io/github/stars/pahen/madge?style=social&color=white)](https://github.com/pahen/madge/stargazers) 🕸️
+13. **[Madge](https://github.com/pahen/madge)** [![GitHub_Stars](https://img.shields.io/github/stars/pahen/madge?style=social&color=white)](https://github.com/pahen/madge/stargazers) 🕸️
     Developer tool for generating visual module dependency graphs, identifying circular dependencies, and inspecting CommonJS/ESM project architecture.
 
-14. **[JSHint](https://github.com/jshint/jshint)** [![GitHub stars](https://img.shields.io/github/stars/jshint/jshint?style=social&color=white)](https://github.com/jshint/jshint/stargazers) 📜
+14. **[JSHint](https://github.com/jshint/jshint)** [![GitHub_Stars](https://img.shields.io/github/stars/jshint/jshint?style=social&color=white)](https://github.com/jshint/jshint/stargazers) 📜
     Classic, lightweight community static analysis tool detecting errors and potential anti-patterns in JavaScript applications.
 
-15. **[XO](https://github.com/xojs/xo)** [![GitHub stars](https://img.shields.io/github/stars/xojs/xo?style=social&color=white)](https://github.com/xojs/xo/stargazers) 🎯
+15. **[XO](https://github.com/xojs/xo)** [![GitHub_Stars](https://img.shields.io/github/stars/xojs/xo?style=social&color=white)](https://github.com/xojs/xo/stargazers) 🎯
     Opinionated, zero-config JavaScript and TypeScript linter with strict defaults, enforcing clean syntax and consistency without configuration fatigue.
 
-16. **[dependency-cruiser](https://github.com/sverweij/dependency-cruiser)** [![GitHub stars](https://img.shields.io/github/stars/sverweij/dependency-cruiser?style=social&color=white)](https://github.com/sverweij/dependency-cruiser/stargazers) 🧭
+16. **[dependency-cruiser](https://github.com/sverweij/dependency-cruiser)** [![GitHub_Stars](https://img.shields.io/github/stars/sverweij/dependency-cruiser?style=social&color=white)](https://github.com/sverweij/dependency-cruiser/stargazers) 🧭
     Validate and visualize module dependencies in JS/TS projects, enforcing strict architectural boundaries and detecting circular imports.
 
-17. **[eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)** [![GitHub stars](https://img.shields.io/github/stars/import-js/eslint-plugin-import?style=social&color=white)](https://github.com/import-js/eslint-plugin-import/stargazers) 📦
+17. **[eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)** [![GitHub_Stars](https://img.shields.io/github/stars/import-js/eslint-plugin-import?style=social&color=white)](https://github.com/import-js/eslint-plugin-import/stargazers) 📦
     Standard ESLint plugin intended to support linting of ES2015+ (ES6+) import/export syntax and prevent file path and export naming issues.
 
-18. **[eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)** [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn?style=social&color=white)](https://github.com/sindresorhus/eslint-plugin-unicorn/stargazers) 🦄
+18. **[eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn)** [![GitHub_Stars](https://img.shields.io/github/stars/sindresorhus/eslint-plugin-unicorn?style=social&color=white)](https://github.com/sindresorhus/eslint-plugin-unicorn/stargazers) 🦄
     More than 100+ powerful, opinionated ESLint rules to enforce modern conventions, eliminate code smells, and write cleaner JavaScript and TypeScript.
 
-19. **[dprint](https://github.com/dprint/dprint)** [![GitHub stars](https://img.shields.io/github/stars/dprint/dprint?style=social&color=white)](https://github.com/dprint/dprint/stargazers) 🚀
+19. **[dprint](https://github.com/dprint/dprint)** [![GitHub_Stars](https://img.shields.io/github/stars/dprint/dprint?style=social&color=white)](https://github.com/dprint/dprint/stargazers) 🚀
     Pluggable, configurable, ultra-fast code formatting engine written in Rust with WebAssembly plugins for TypeScript, JavaScript, and JSON.
 
-20. **[ts-prune](https://github.com/nadeesha/ts-prune)** [![GitHub stars](https://img.shields.io/github/stars/nadeesha/ts-prune?style=social&color=white)](https://github.com/nadeesha/ts-prune/stargazers) 🗑️
+20. **[ts-prune](https://github.com/nadeesha/ts-prune)** [![GitHub_Stars](https://img.shields.io/github/stars/nadeesha/ts-prune?style=social&color=white)](https://github.com/nadeesha/ts-prune/stargazers) 🗑️
     Lightweight CLI utility for finding unused and dead exports across TypeScript codebases.
 
-21. **[ESLint Stylistic](https://github.com/eslint-stylistic/eslint-stylistic)** [![GitHub stars](https://img.shields.io/github/stars/eslint-stylistic/eslint-stylistic?style=social&color=white)](https://github.com/eslint-stylistic/eslint-stylistic/stargazers) 🎨
+21. **[ESLint Stylistic](https://github.com/eslint-stylistic/eslint-stylistic)** [![GitHub_Stars](https://img.shields.io/github/stars/eslint-stylistic/eslint-stylistic?style=social&color=white)](https://github.com/eslint-stylistic/eslint-stylistic/stargazers) 🎨
     Community-maintained monorepo for formatting and stylistic rules in ESLint across JavaScript, TypeScript, and JSX.
 
-22. **[Are The Types Wrong? (attw)](https://github.com/arethetypeswrong/arethetypeswrong.github.io)** [![GitHub stars](https://img.shields.io/github/stars/arethetypeswrong/arethetypeswrong.github.io?style=social&color=white)](https://github.com/arethetypeswrong/arethetypeswrong.github.io/stargazers) ❓
+22. **[Are The Types Wrong? (attw)](https://github.com/arethetypeswrong/arethetypeswrong.github.io)** [![GitHub_Stars](https://img.shields.io/github/stars/arethetypeswrong/arethetypeswrong.github.io?style=social&color=white)](https://github.com/arethetypeswrong/arethetypeswrong.github.io/stargazers) ❓
     CLI and web analyzer detecting subtle TypeScript module resolution pitfalls, package export mismatches, and broken `.d.ts` declaration maps.
 
-23. **[Quick-lint-js](https://github.com/quick-lint/quick-lint-js)** [![GitHub stars](https://img.shields.io/github/stars/quick-lint/quick-lint-js?style=social&color=white)](https://github.com/quick-lint/quick-lint-js/stargazers) 🏎️
+23. **[Quick-lint-js](https://github.com/quick-lint/quick-lint-js)** [![GitHub_Stars](https://img.shields.io/github/stars/quick-lint/quick-lint-js?style=social&color=white)](https://github.com/quick-lint/quick-lint-js/stargazers) 🏎️
     Blazing-fast C++ JavaScript and TypeScript linter finding bugs in real-time with instant editor feedback and zero configuration.
 
-24. **[Deno Lint](https://github.com/denoland/deno_lint)** [![GitHub stars](https://img.shields.io/github/stars/denoland/deno_lint?style=social&color=white)](https://github.com/denoland/deno_lint/stargazers) 🦕
+24. **[Deno Lint](https://github.com/denoland/deno_lint)** [![GitHub_Stars](https://img.shields.io/github/stars/denoland/deno_lint?style=social&color=white)](https://github.com/denoland/deno_lint/stargazers) 🦕
     Rust-powered linter for JavaScript and TypeScript extracted from the Deno runtime for lightning-fast standalone linting.
 
-25. **[Publint](https://github.com/bluwy/publint)** [![GitHub stars](https://img.shields.io/github/stars/bluwy/publint?style=social&color=white)](https://github.com/bluwy/publint/stargazers) 📮
+25. **[Publint](https://github.com/bluwy/publint)** [![GitHub_Stars](https://img.shields.io/github/stars/bluwy/publint?style=social&color=white)](https://github.com/bluwy/publint/stargazers) 📮
     Linter for npm packages verifying `package.json` exports, TypeScript declarations, and modern ESM/CJS compatibility.
 
-26. **[prettierd](https://github.com/fsouza/prettierd)** [![GitHub stars](https://img.shields.io/github/stars/fsouza/prettierd?style=social&color=white)](https://github.com/fsouza/prettierd/stargazers) 💨
+26. **[prettierd](https://github.com/fsouza/prettierd)** [![GitHub_Stars](https://img.shields.io/github/stars/fsouza/prettierd?style=social&color=white)](https://github.com/fsouza/prettierd/stargazers) 💨
     Persistent background daemon for Prettier delivering near-instant editor formatting speeds by eliminating Node.js startup overhead.
 
-27. **[tsc-files](https://github.com/gustavopch/tsc-files)** [![GitHub stars](https://img.shields.io/github/stars/gustavopch/tsc-files?style=social&color=white)](https://github.com/gustavopch/tsc-files/stargazers) 📁
+27. **[tsc-files](https://github.com/gustavopch/tsc-files)** [![GitHub_Stars](https://img.shields.io/github/stars/gustavopch/tsc-files?style=social&color=white)](https://github.com/gustavopch/tsc-files/stargazers) 📁
     Lightweight CLI tool to run `tsc` type checking selectively on git staged files without full monorepo overhead.
 
 ---
